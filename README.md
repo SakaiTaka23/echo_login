@@ -19,3 +19,27 @@
 | /api/todos/:id           | DELETE   | idのtodoの削除     |
 | /api/todos/:id/completed | PUT      | idのtodoの完了     |
 
+
+
+## 改善点
+
+* もう少しjsに頼らず実装したい
+
+  →ルートでhtmlをそのまま返しているところが目立つ
+
+  →改善するとルーティングももう少しきれいになるはず
+
+
+
+## 使用技術
+
+go 1.14
+
+jwt
+
+echo
+
+gorm
+
+
+
