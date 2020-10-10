@@ -1,0 +1,162 @@
+[
+  {
+    "method": "GET",
+    "path": "/api/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "POST",
+    "path": "/signup",
+    "name": "github.com/SakaiTaka23/echo_login/handler.Signup"
+  },
+  {
+    "method": "GET",
+    "path": "/login",
+    "name": "github.com/labstack/echo.(*Echo).File.func1"
+  },
+  {
+    "method": "POST",
+    "path": "/login",
+    "name": "github.com/SakaiTaka23/echo_login/handler.Login"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/todos/:id",
+    "name": "github.com/SakaiTaka23/echo_login/handler.DeleteTodo"
+  },
+  {
+    "method": "GET",
+    "path": "/todos",
+    "name": "github.com/labstack/echo.(*Echo).File.func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/api",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "GET",
+    "path": "/",
+    "name": "github.com/labstack/echo.(*Echo).File.func1"
+  },
+  {
+    "method": "HEAD",
+    "path": "/api",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "PATCH",
+    "path": "/api/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "POST",
+    "path": "/api/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "GET",
+    "path": "/assets/*",
+    "name": "github.com/labstack/echo.static.func1"
+  },
+  {
+    "method": "DELETE",
+    "path": "/api",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "PUT",
+    "path": "/api/todos/:id/completed",
+    "name": "github.com/SakaiTaka23/echo_login/handler.UpdateTodo"
+  },
+  {
+    "method": "OPTIONS",
+    "path": "/api",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "GET",
+    "path": "/api/todos",
+    "name": "github.com/SakaiTaka23/echo_login/handler.GetTodos"
+  },
+  {
+    "method": "POST",
+    "path": "/api/todos",
+    "name": "github.com/SakaiTaka23/echo_login/handler.AddTodo"
+  },
+  {
+    "method": "TRACE",
+    "path": "/api",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api/*",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "GET",
+    "path": "/assets",
+    "name": "github.com/labstack/echo.static.func1"
+  },
+  {
+    "method": "GET",
+    "path": "/signup",
+    "name": "github.com/labstack/echo.(*Echo).File.func1"
+  },
+  {
+    "method": "PROPFIND",
+    "path": "/api",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  },
+  {
+    "method": "CONNECT",
+    "path": "/api",
+    "name": "github.com/labstack/echo.(*Group).Use.func1"
+  }
+]
